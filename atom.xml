@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Seven&amp;博客</title>
+  <icon>http://shangbin.vip/icon.webp</icon>
+  <subtitle>永远相信美好的事情即将发生！</subtitle>
+  <link href="http://shangbin.vip/atom.xml" rel="self"/>
+  
+  <link href="http://shangbin.vip/"/>
+  <updated>2023-04-24T11:36:32.690Z</updated>
+  <id>http://shangbin.vip/</id>
+  
+  <author>
+    <name>Seven</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LDA主题模型第二步：文本情感分析</title>
+    <link href="http://shangbin.vip/posts/54205.html"/>
+    <id>http://shangbin.vip/posts/54205.html</id>
+    <published>2023-04-24T11:26:48.000Z</published>
+    <updated>2023-04-24T11:36:32.690Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="研究方法" scheme="http://shangbin.vip/categories/%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95/"/>
+    
+    
+    <category term="LDA主题模型" scheme="http://shangbin.vip/tags/LDA%E4%B8%BB%E9%A2%98%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="护理前沿方法" scheme="http://shangbin.vip/tags/%E6%8A%A4%E7%90%86%E5%89%8D%E6%B2%BF%E6%96%B9%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LDA主题模型第一步：数据采集</title>
+    <link href="http://shangbin.vip/posts/20194.html"/>
+    <id>http://shangbin.vip/posts/20194.html</id>
+    <published>2023-04-22T11:58:21.000Z</published>
+    <updated>2023-04-24T11:34:40.761Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="研究方法" scheme="http://shangbin.vip/categories/%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95/"/>
+    
+    
+    <category term="LDA主题模型" scheme="http://shangbin.vip/tags/LDA%E4%B8%BB%E9%A2%98%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="护理前沿方法" scheme="http://shangbin.vip/tags/%E6%8A%A4%E7%90%86%E5%89%8D%E6%B2%BF%E6%96%B9%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于LDA主题模型的文本挖掘技术在护理中的应用</title>
+    <link href="http://shangbin.vip/posts/15836.html"/>
+    <id>http://shangbin.vip/posts/15836.html</id>
+    <published>2023-04-22T07:28:15.000Z</published>
+    <updated>2023-04-22T12:45:16.581Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="研究热点" scheme="http://shangbin.vip/categories/%E7%A0%94%E7%A9%B6%E7%83%AD%E7%82%B9/"/>
+    
+    
+    <category term="LDA主题模型" scheme="http://shangbin.vip/tags/LDA%E4%B8%BB%E9%A2%98%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="护理研究热点" scheme="http://shangbin.vip/tags/%E6%8A%A4%E7%90%86%E7%A0%94%E7%A9%B6%E7%83%AD%E7%82%B9/"/>
+    
+    <category term="护理前沿方法" scheme="http://shangbin.vip/tags/%E6%8A%A4%E7%90%86%E5%89%8D%E6%B2%BF%E6%96%B9%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="http://shangbin.vip/posts/63786.html"/>
+    <id>http://shangbin.vip/posts/63786.html</id>
+    <published>2023-04-21T11:48:08.000Z</published>
+    <updated>2023-04-22T05:02:24.684Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Seven" scheme="http://shangbin.vip/categories/Seven/"/>
+    
+    
+    <category term="Seven" scheme="http://shangbin.vip/tags/Seven/"/>
+    
+  </entry>
+  
+</feed>
